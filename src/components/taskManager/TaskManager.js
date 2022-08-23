@@ -93,7 +93,7 @@ const TaskManager = () => {
               ></input>
             </div>
             <div>
-              <label htmlFor="date">Task:</label>
+              <label htmlFor="date">Date:</label>
               <input
                 type="date"
                 placeholder="Task name"
